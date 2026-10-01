@@ -2,5 +2,5 @@
 ### Homework1
 
 [Selection![Alt homework11](./homework/homework11.jpg)
-Sorting] 미완
+Sorting]
 [Yolo](https://youtu.be/H-48HITTO-I)
