@@ -5,4 +5,4 @@ https://github.com/user-attachments/assets/a5fe9576-3d51-41a7-a15f-8fadd0e01a61
 https://github.com/user-attachments/assets/8dbe43ec-2984-4df6-863d-577b25a69795
 ### HW2 Classsification
 [HW2.pdf 보기](./homework/HW2.pdf)
-- 복잡한 모델일수록 점의 밀집도가 증가 하였음-
+- 복잡한 모델일수록 점의 밀집도가 증가 하였음
